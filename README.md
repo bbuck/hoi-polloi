@@ -6,5 +6,5 @@ end work on the project in lieu of more popular web offerings at the time.
 
 # Contributors
 
- - lordizuriel (me @bbuck), Brandon Buck 
- - theletterpi (@pyrite357), Brandon Tanner
+ - lordizuriel (me [@bbuck](https://github.com/bbuck)), Brandon Buck 
+ - theletterpi ([@pyrite357](https://github.com/pyrite357)), Brandon Tanner
